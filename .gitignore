@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data and results
+data/
+results/
+pretrained/
+*.nrrd
+*.nii
+*.nii.gz
+*.pth
+*.pt
+
+# Logs
+*.log
